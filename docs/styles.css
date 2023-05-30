@@ -1,0 +1,7 @@
+.navbar {
+    height: 40px !important; /* Set this to your desired height */
+    background-color: #2C3333 !important; /* You can replace #f0f0f0 with your desired color */
+}
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
